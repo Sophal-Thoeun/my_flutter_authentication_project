@@ -42,6 +42,7 @@ class MyApp extends StatelessWidget {
         ),
       ],
       child: MaterialApp(
+        title: "Flutter Authentication Project",
         home: MyHomePage(),
         debugShowCheckedModeBanner: false,
       ),
