@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "198238896379",
+    "project_id": "fltr-auth--map",
+    "storage_bucket": "fltr-auth--map.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198238896379:android:44490f0c587e46c45fb05e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_assignment_auth_maps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198238896379-vtdnt7591ki2rus25h8jr8kumah6k6pt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFGCXLUylGrm5TVsv_WAbdWg1BjhOs6aA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198238896379-vtdnt7591ki2rus25h8jr8kumah6k6pt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
